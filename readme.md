@@ -1,6 +1,6 @@
 # Develop AI solutions with Azure OpenAI
 
-This repo contains the instructions and assets required to complete the exercises in the [Develop AI solutions with Azure OpenAI](https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/) learning path on Microsoft Learn.
+This repo contains the instructions and assets required to complete the exercises in the [Develop AI solutions with Azure OpenAI](https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/) learning path on Microsoft Learn. This is a guided project. Reference - github.com/MicrosoftLearning/mslearn-openai/tree/main
 
 ### Reporting issues
 
